@@ -1,0 +1,3 @@
+Para iniciar o banco de dados já populado (necessário pra rodar o projeto receptor), basta executar o seguinte comando no cmd dentro da pasta mysql:
+
+docker-compose -f docker-compose.mysql.yml up -d
